@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/shopeasy/static/js/main.7e7d2daf.chunk.js",
+    "main.js.map": "/shopeasy/static/js/main.7e7d2daf.chunk.js.map",
+    "runtime-main.js": "/shopeasy/static/js/runtime-main.15adc2d3.js",
+    "runtime-main.js.map": "/shopeasy/static/js/runtime-main.15adc2d3.js.map",
+    "static/js/2.bc214edb.chunk.js": "/shopeasy/static/js/2.bc214edb.chunk.js",
+    "static/js/2.bc214edb.chunk.js.map": "/shopeasy/static/js/2.bc214edb.chunk.js.map",
+    "index.html": "/shopeasy/index.html",
+    "static/js/2.bc214edb.chunk.js.LICENSE.txt": "/shopeasy/static/js/2.bc214edb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15adc2d3.js",
+    "static/js/2.bc214edb.chunk.js",
+    "static/js/main.7e7d2daf.chunk.js"
+  ]
+}
